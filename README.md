@@ -448,7 +448,6 @@ Open `output/ipl_dashboard.html` in your browser.
 ipl-analysis/
 ├── README.md                           ← You are here
 ├── ANALYSIS_REPORT.md                  ← Full detailed findings report
-├── CLAUDE.md                           ← Original analysis specifications
 ├── Dataset/
 │   └── IPL_Dataset(2008 - 2023).csv    ← Source data (1,024 matches)
 ├── workflows/
