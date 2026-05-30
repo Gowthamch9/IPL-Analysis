@@ -33,7 +33,7 @@
 
 ## 🎯 Project Overview
 
-This project analyzes **1,024 IPL matches** from the 2008 inaugural season through 2023, using **10 custom analytical metrics** and **6 additional insights** to uncover patterns in team strategy, venue conditions, player impact, and championship efficiency.
+This project analyzes **1,024 IPL matches** from the 2008 inaugural season through 2023, using **custom analytical metrics** to uncover patterns in team strategy, venue conditions, player impact, and championship efficiency.
 
 Instead of reporting raw win/loss tallies, each metric is designed to answer a specific strategic question:
 
